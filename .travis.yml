@@ -1,0 +1,8 @@
+language: objective-c
+osx_image: xcode8.2
+
+env:
+  - NSUnbufferedIO=YES
+
+script:
+  - bundle exec danger
