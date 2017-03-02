@@ -10,11 +10,11 @@ import XCTest
 import AutoMate
 
 // MARK: - ___FILEBASENAMEASIDENTIFIER___
-open class ___FILEBASENAMEASIDENTIFIER___: BaseAppView {
+open class ___FILEBASENAMEASIDENTIFIER___: BaseAppPage {
 
     // MARK: Elements
     open var exampleElement: XCUIElement {
-        return view.buttons[Locators.exampleLocalizer]
+        return view.buttons[Locators.exampleLocator]
     }
 
     // MARK: Actions

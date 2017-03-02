@@ -11,8 +11,8 @@ import AutoMate
 
 class ___FILEBASENAMEASIDENTIFIER___: AppUITestCase {
 
-    // MARK: Arrange View Objects
-    lazy var myReusableView1: MyReusableView = MyReusableView(in: self.app)
+    // MARK: Arrange Page Objects
+    lazy var myReusablePage1: MyReusablePage = MyReusablePage(in: self.app)
 
     // MARK: Set up
     // Called once before whole class
