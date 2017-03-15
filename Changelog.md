@@ -4,5 +4,5 @@
 Released on 2017-03-15.
 
 #### Added
-- Strong-typed helpers: locators, view object templates
+- Strong-typed helpers: locators, page object templates
 - Base XCTestCase template
