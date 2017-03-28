@@ -14,7 +14,7 @@
 
 [`AutoMate`](https://github.com/PGSSoft/AutoMate) is a Swift framework containing a set of helpful `XCTest` extensions for writing UI automation tests. Those Xcode templates helps starting with new UI tests utilizing Page Object pattern and [`AutoMate`](https://github.com/PGSSoft/AutoMate) framework.
 
-[![Swift 3.0](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](https://swift.org)
+[![Swift 3.1](https://img.shields.io/badge/Swift-3.1-orange.svg?style=flat)](https://swift.org)
 [![License](https://img.shields.io/github/license/PGSSoft/AutoMate-Templates.svg)](https://github.com/PGSSoft/AutoMate-Templates/blob/master/LICENSE)
 
 ![Templates](assets/templates.png)
