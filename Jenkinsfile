@@ -4,7 +4,7 @@ node("ios") {
       env.LANG = "en_US.UTF-8"
       env.RBENV_VERSION = env.RBENV_2_4
       env.NSUnbufferedIO = "YES"
-      env.DEVELOPER_DIR = "/Applications/Xcode.app"
+      env.DEVELOPER_DIR = "/Applications/Xcode_8.3.app"
       env.DANGER_BITBUCKETSERVER_HOST = "bitbucket.pgs-soft.com"
 
       // Unlock Bitbucket Server credentials
